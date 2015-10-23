@@ -1,3 +1,3 @@
-# my_articles
+# My Arcticles
 
 Work/Hobby articles written in markdown
